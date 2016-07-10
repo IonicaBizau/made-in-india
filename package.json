@@ -51,6 +51,7 @@
   "blah": {
     "show_installation": false,
     "title": "Made in India",
+    "related": ["made-in-romania", "made-in-brazil"],
     "installation": [
       {
         "h2": "Contents"

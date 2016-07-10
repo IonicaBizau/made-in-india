@@ -1122,6 +1122,13 @@
 Have an idea? Found a bug? See [how to contribute][contributing].
 
 
+## :sparkles: Related
+
+ - [`made-in-romania`](https://github.com/IonicaBizau/made-in-romania#readme)—A list of cool projects made in Romania.
+ - [`made-in-brazil`](https://github.com/IonicaBizau/made-in-brazil#readme)—A list of neat projects made in Brazil.
+
+
+
 ## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
