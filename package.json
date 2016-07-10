@@ -1,10 +1,10 @@
 {
-  "name": "made-in-romania",
-  "description": "A list of cool projects made in Romania.",
+  "name": "made-in-india",
+  "description": "A list of cool projects made in India.",
   "keywords": [
     "made",
     "in",
-    "romania",
+    "india",
     "a",
     "list",
     "of",
@@ -33,12 +33,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/made-in-romania.git"
+    "url": "git+ssh://git@github.com/IonicaBizau/made-in-india.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/made-in-romania/issues"
+    "url": "https://github.com/IonicaBizau/made-in-india/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/made-in-romania#readme",
+  "homepage": "https://github.com/IonicaBizau/made-in-india#readme",
   "dependencies": {
     "bindy": "^1.0.4",
     "made-in": "^1.0.3",
@@ -50,7 +50,7 @@
   },
   "blah": {
     "show_installation": false,
-    "title": "Made in Romania",
+    "title": "Made in India",
     "installation": [
       {
         "h2": "Contents"
