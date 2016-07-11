@@ -66,7 +66,8 @@
           "[C#](#c-1)",
           "[CSS](#css)",
           "[HTML](#html)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -2530,6 +2531,111 @@
               "2",
               "[@dhiru1602](https://github.com/dhiru1602)/[**android_device_lge_p…**](https://github.com/dhiru1602/android_device_lge_p760)",
               "Device Tree for LG Optimus L9 P760.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "42",
+              "[@ashkulz](https://github.com/ashkulz)/[**NppFTP**](https://github.com/ashkulz/NppFTP)",
+              "Plugin for Notepad++ allowing FTP, FTPS, FTPES and SFTP communications",
+              "[:arrow_upper_right:](http://ashkulz.github.io/NppFTP/)"
+            ],
+            [
+              "33",
+              "[@jaybosamiya](https://github.com/jaybosamiya)/[**chaos-game**](https://github.com/jaybosamiya/chaos-game)",
+              ":collision: Play the chaos game to create amazing fractal images",
+              ""
+            ],
+            [
+              "13",
+              "[@jaybosamiya](https://github.com/jaybosamiya)/[**network-protocol-sim…**](https://github.com/jaybosamiya/network-protocol-simulations)",
+              ":wrench: Simulations of Stop-and-Wait, Go-Back-N, Selective-Repeat",
+              ""
+            ],
+            [
+              "10",
+              "[@jaybosamiya](https://github.com/jaybosamiya)/[**CryptoGuy**](https://github.com/jaybosamiya/CryptoGuy)",
+              ":tophat: CryptoGuy is a tool usefull to find out various decryptions of a string",
+              ""
+            ],
+            [
+              "6",
+              "[@utrade](https://github.com/utrade)/[**muTradeApi**](https://github.com/utrade/muTradeApi)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@jaybosamiya](https://github.com/jaybosamiya)/[**triangulate-tool**](https://github.com/jaybosamiya/triangulate-tool)",
+              " :triangular_ruler: Easily convert any image into low-poly art in just a few clicks",
+              ""
+            ],
+            [
+              "3",
+              "[@pakhandi](https://github.com/pakhandi)/[**UVA**](https://github.com/pakhandi/UVA)",
+              "solutions to some UVA problems",
+              ""
+            ],
+            [
+              "3",
+              "[@pakhandi](https://github.com/pakhandi)/[**Spoj**](https://github.com/pakhandi/Spoj)",
+              "Solutions to some problems on SPOJ",
+              ""
+            ],
+            [
+              "3",
+              "[@shubhamchaudhary](https://github.com/shubhamchaudhary)/[**uiet**](https://github.com/shubhamchaudhary/uiet)",
+              "Everything I did in UIET College Labs",
+              ""
+            ],
+            [
+              "3",
+              "[@shubhamchaudhary](https://github.com/shubhamchaudhary)/[**qmpris**](https://github.com/shubhamchaudhary/qmpris)",
+              "Creating QMpris library",
+              ""
+            ],
+            [
+              "3",
+              "[@utrade](https://github.com/utrade)/[**ecl**](https://github.com/utrade/ecl)",
+              "Exchange Connectivity Layer",
+              ""
+            ],
+            [
+              "3",
+              "[@pakhandi](https://github.com/pakhandi)/[**CODECHEF**](https://github.com/pakhandi/CODECHEF)",
+              "Code",
+              ""
+            ],
+            [
+              "2",
+              "[@nevinvalsaraj](https://github.com/nevinvalsaraj)/[**image-processing-ope…**](https://github.com/nevinvalsaraj/image-processing-opencv)",
+              "Image Processing using OpenCV 2.4.6",
+              ""
+            ],
+            [
+              "2",
+              "[@aapav01](https://github.com/aapav01)/[**android_hardware_sam…**](https://github.com/aapav01/android_hardware_samsung_slsi-cm_exynos_libcamera)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@utrade](https://github.com/utrade)/[**marketDataDispatcher**](https://github.com/utrade/marketDataDispatcher)",
+              "",
               ""
             ]
           ]
