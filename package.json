@@ -82,7 +82,8 @@
           "[Ruby](#ruby)",
           "[Scala](#scala)",
           "[Shell](#shell)",
-          "[Swift](#swift)"
+          "[Swift](#swift)",
+          "[TeX](#tex)"
         ]
       },
       {
@@ -5858,6 +5859,27 @@
               "2",
               "[@abdullah-chhatra](https://github.com/abdullah-chhatra)/[**iDispatch**](https://github.com/abdullah-chhatra/iDispatch)",
               "Easy to use wrapper over GCD for iOS",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "TeX #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@santhosbaala](https://github.com/santhosbaala)/[**vitmsprojectreport**](https://github.com/santhosbaala/vitmsprojectreport)",
+              "A LaTeX template for MS Software Engineering final year project report",
               ""
             ]
           ]
