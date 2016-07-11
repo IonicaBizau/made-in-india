@@ -748,6 +748,7 @@
 40 | [@anandology](https://github.com/anandology)/[**pyjs**](https://github.com/anandology/pyjs) | Python to Javascript compiler |
 39 | [@anandology](https://github.com/anandology)/[**python-practice-book**](https://github.com/anandology/python-practice-book) | A book to learn Python programming language through lot of examples and practice problems |
 39 | [@ajinabraham](https://github.com/ajinabraham)/[**WebAppSec**](https://github.com/ajinabraham/WebAppSec) | Web Application Security |
+34 | [@shivam5992](https://github.com/shivam5992)/[**textstat**](https://github.com/shivam5992/textstat) | Python package to calculate statistics from text, which helps to decide readability, complexity and grade level of a particular corpus. |
 32 | [@kovidgoyal](https://github.com/kovidgoyal)/[**powerline-daemon**](https://github.com/kovidgoyal/powerline-daemon) | A daemon to reduce the resource consumption of powerline by having a single python process that serves all powerline requests |
 31 | [@JayVora-SerpentCS](https://github.com/JayVora-SerpentCS)/[**EduERPv8**](https://github.com/JayVora-SerpentCS/EduERPv8) | Education ERP based on Odoo! | [:arrow_upper_right:](http://www.serpentcs.com)
 28 | [@kushaldas](https://github.com/kushaldas)/[**tunir**](https://github.com/kushaldas/tunir) |  |
