@@ -67,7 +67,8 @@
           "[CSS](#css)",
           "[HTML](#html)",
           "[C](undefined)",
-          "[C++](#c-2)"
+          "[C++](#c-2)",
+          "[ActionScript](#actionscript)"
         ]
       },
       {
@@ -2636,6 +2637,45 @@
               "2",
               "[@utrade](https://github.com/utrade)/[**marketDataDispatcher**](https://github.com/utrade/marketDataDispatcher)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "ActionScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "165",
+              "[@hsharma](https://github.com/hsharma)/[**Hungry-Hero**](https://github.com/hsharma/Hungry-Hero)",
+              "Hungry Hero is an open source Flash game built on Starling Framework.",
+              "[:arrow_upper_right:](http://www.hungryherogame.com)"
+            ],
+            [
+              "15",
+              "[@hegdemahesh](https://github.com/hegdemahesh)/[**hanuman**](https://github.com/hegdemahesh/hanuman)",
+              "A sample game built on starling and nape",
+              ""
+            ],
+            [
+              "8",
+              "[@circuitvalley](https://github.com/circuitvalley)/[**IR-Remote-Control**](https://github.com/circuitvalley/IR-Remote-Control)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@riaxe](https://github.com/riaxe)/[**Screenshot-ANE-Mac**](https://github.com/riaxe/Screenshot-ANE-Mac)",
+              "Adobe AIR Native Extension for generating screenshot in Mac OSX.",
               ""
             ]
           ]
