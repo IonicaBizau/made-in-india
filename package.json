@@ -77,7 +77,8 @@
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[R](#r)"
         ]
       },
       {
@@ -5052,6 +5053,39 @@
               "2",
               "[@abhikandoi2000](https://github.com/abhikandoi2000)/[**lyricsparser**](https://github.com/abhikandoi2000/lyricsparser)",
               "Simple parser to parse lyrics from Lyrics.com",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "R #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "13",
+              "[@adityashrm21](https://github.com/adityashrm21)/[**Bike-Sharing-Demand-…**](https://github.com/adityashrm21/Bike-Sharing-Demand---Kaggle)",
+              "Solution to the Kaggle knowledge problem - Bike Sharing Demand",
+              ""
+            ],
+            [
+              "5",
+              "[@bishwarup307](https://github.com/bishwarup307)/[**AV_Last_Man_Standing**](https://github.com/bishwarup307/AV_Last_Man_Standing)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@nishantsbi](https://github.com/nishantsbi)/[**R-Programming-Assign…**](https://github.com/nishantsbi/R-Programming-Assignment-3)",
+              "R-Programming Project 3",
               ""
             ]
           ]
