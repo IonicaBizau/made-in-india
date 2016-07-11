@@ -80,7 +80,8 @@
           "[Python](#python)",
           "[R](#r)",
           "[Ruby](#ruby)",
-          "[Scala](#scala)"
+          "[Scala](#scala)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -5718,6 +5719,63 @@
               "2",
               "[@debasishg](https://github.com/debasishg)/[**recon**](https://github.com/debasishg/recon)",
               "Attempt to make a generalized reconciliation service",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "5",
+              "[@dhamaniasad](https://github.com/dhamaniasad)/[**eyeos**](https://github.com/dhamaniasad/eyeos)",
+              "eyeos open source archive",
+              ""
+            ],
+            [
+              "5",
+              "[@SpEcHiDe](https://github.com/SpEcHiDe)/[**APK-DeCompiler**](https://github.com/SpEcHiDe/APK-DeCompiler)",
+              "Program to get the source code from APK file",
+              "[:arrow_upper_right:](https://SpEcHiDe.github.io/APK-DeCompiler/index.html)"
+            ],
+            [
+              "4",
+              "[@anubhavchaturvedi](https://github.com/anubhavchaturvedi)/[**ConnectifyLinux**](https://github.com/anubhavchaturvedi/ConnectifyLinux)",
+              "Shell Script to simulate the behavior similar to Connectify for Windows/Mac",
+              ""
+            ],
+            [
+              "3",
+              "[@Jackeagle](https://github.com/Jackeagle)/[**android_device_xiaom…**](https://github.com/Jackeagle/android_device_xiaomi_dior)",
+              "CyanogenMod Device Tree For Dior",
+              ""
+            ],
+            [
+              "2",
+              "[@Abhinav1997](https://github.com/Abhinav1997)/[**speed-up-android**](https://github.com/Abhinav1997/speed-up-android)",
+              "Script to speed up your build process by 357.233%",
+              ""
+            ],
+            [
+              "2",
+              "[@kiranp11](https://github.com/kiranp11)/[**scripts**](https://github.com/kiranp11/scripts)",
+              "scripts",
+              ""
+            ],
+            [
+              "2",
+              "[@SpEcHiDe](https://github.com/SpEcHiDe)/[**scripts**](https://github.com/SpEcHiDe/scripts)",
+              "Useful scripts to have fun.",
               ""
             ]
           ]
