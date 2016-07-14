@@ -4330,6 +4330,12 @@
               ""
             ],
             [
+              "34",
+              "[@shivam5992](https://github.com/shivam5992)/[**textstat**](https://github.com/shivam5992/textstat)",
+              "Package to calculate text statistics",
+              ""
+            ],
+            [
               "32",
               "[@kovidgoyal](https://github.com/kovidgoyal)/[**powerline-daemon**](https://github.com/kovidgoyal/powerline-daemon)",
               "A daemon to reduce the resource consumption of powerline by having a single python process that serves all powerline requests",
