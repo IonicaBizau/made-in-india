@@ -12,7 +12,7 @@
     "projects"
   ],
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -27,7 +27,6 @@
     "resources/",
     "menu/",
     "scripts/",
-    "build/",
     "cli.js",
     "index.js"
   ],
@@ -5808,7 +5807,7 @@
             "🌍"
           ],
           "rows": [
-           [
+            [
               "12",
               "[@keshavvishwkarma](https://github.com/keshavvishwkarma)/[**KVRootBaseSideMenu-Swift**](https://github.com/keshavvishwkarma/KVRootBaseSideMenu-Swift)",
               "KVRootBaseSideMenu-Swift It's a root base side menu with autolayout for iOS applications & It is also written in pure swift.",
