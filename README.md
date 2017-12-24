@@ -9,6 +9,7 @@
 
 ## Contents
 
+
  - [JavaScript](#javascript)
  - [Java](#java)
  - [C#](#c-1)
@@ -35,6 +36,7 @@
  - [VimL](#viml)
 
 ### JavaScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1611 | [@shyamseshadri](https://github.com/shyamseshadri)/[**angularjs-book**](https://github.com/shyamseshadri/angularjs-book) | Examples and Code snippets from the AngularJS O'Reilly book |
@@ -219,7 +221,9 @@
 2 | [@dineshkummarc](https://github.com/dineshkummarc)/[**iisnode-boilerplate**](https://github.com/dineshkummarc/iisnode-boilerplate) | Um template de website pronto para usar com node-service, que torna o desenvolvimento web ABSURDAMENTE rápido. Copy-Paste-Run. Contempla os arquivos HTML, CSS e JS mais usados e com as melhores práticas |
 2 | [@chinchang](https://github.com/chinchang)/[**cssconf-asia**](https://github.com/chinchang/cssconf-asia) | My slides and game source for CSSConf.Asia '14 | [:arrow_upper_right:](http://kushagragour.in/cssconfasia/)
 2 | [@dineshkummarc](https://github.com/dineshkummarc)/[**MacLeopardDesktop**](https://github.com/dineshkummarc/MacLeopardDesktop) | MacLeopardDesktop is a Linux, Macintosh Look alike UI for Websites using javascript, Jquery and CSS3 |
+
 ### Java #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1815 | [@ragunathjawahar](https://github.com/ragunathjawahar)/[**android-saripaar**](https://github.com/ragunathjawahar/android-saripaar) | UI form validation library for Android |
@@ -355,7 +359,9 @@
 2 | [@PareshMayani](https://github.com/PareshMayani)/[**Android-ReadFileAsse…**](https://github.com/PareshMayani/Android-ReadFileAssets) | Example of reading files from Assets folder |
 2 | [@manishsri01](https://github.com/manishsri01)/[**GooglePrintDemo**](https://github.com/manishsri01/GooglePrintDemo) |  |
 2 | [@sivaprasadreddy](https://github.com/sivaprasadreddy)/[**spring-training**](https://github.com/sivaprasadreddy/spring-training) | Spring Training Material |
+
 ### C# #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 24 | [@prashantvc](https://github.com/prashantvc)/[**Xamarin.iOS-MessageB…**](https://github.com/prashantvc/Xamarin.iOS-MessageBar) | Dropdown message bar for iOS |
@@ -382,7 +388,9 @@
 2 | [@amaneureka](https://github.com/amaneureka)/[**LunchTime**](https://github.com/amaneureka/LunchTime) | Few lines of code, which reduces huge tasks for me. |
 2 | [@zoebchhatriwala](https://github.com/zoebchhatriwala)/[**Multicopier**](https://github.com/zoebchhatriwala/Multicopier) | An Multi Copy Application Developed in C# |
 2 | [@zoebchhatriwala](https://github.com/zoebchhatriwala)/[**WebCloud**](https://github.com/zoebchhatriwala/WebCloud) | An HTML Writer and Viewer Developed in C# |
+
 ### CSS #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 206 | [@naveenshaji](https://github.com/naveenshaji)/[**material**](https://github.com/naveenshaji/material) | An HTML5 responsive template incorporating Google's Material Design Standards along with Jekyll -- Work in Progress -- | [:arrow_upper_right:](http://naveenshaji.github.io/material)
@@ -394,7 +402,9 @@
 2 | [@joshpitzalis](https://github.com/joshpitzalis)/[**websites**](https://github.com/joshpitzalis/websites) | A simple landing page template | [:arrow_upper_right:](http://joshpitzalis.github.io/websites/)
 2 | [@astha](https://github.com/astha)/[**ConsumerConnect**](https://github.com/astha/ConsumerConnect) | A web interface to buy and sell services. |
 2 | [@tapasweni-pathak](https://github.com/tapasweni-pathak)/[**CodeBenders-IGDTU**](https://github.com/tapasweni-pathak/CodeBenders-IGDTU) | :computer: The programming club of IGDTUW. Aims at providing a platform for competitive programming under CodeChef. | [:arrow_upper_right:](http://tapasweni-pathak.github.io/CodeBenders-IGDTU/)
+
 ### HTML #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 41 | [@igneustech](https://github.com/igneustech)/[**html-exercise-file**](https://github.com/igneustech/html-exercise-file) | Exercise files for students of HTML leaning class |
@@ -405,7 +415,9 @@
 2 | [@salman-bhai](https://github.com/salman-bhai)/[**HandCricket**](https://github.com/salman-bhai/HandCricket) | This is a game of hand cricket that is played against a computer opponent. |
 2 | [@salman-bhai](https://github.com/salman-bhai)/[**salman-bhai.github.i…**](https://github.com/salman-bhai/salman-bhai.github.io) | My Personal Website - Find who I am over here |
 2 | [@shipra1509](https://github.com/shipra1509)/[**shipra1509.github.io**](https://github.com/shipra1509/shipra1509.github.io) |  |
+
 ### C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 167 | [@jarun](https://github.com/jarun)/[**keysniffer**](https://github.com/jarun/keysniffer) | Linux kernel module to log pressed keys in debugfs |
@@ -449,7 +461,9 @@
 2 | [@eyantra](https://github.com/eyantra)/[**Experiment**](https://github.com/eyantra/Experiment) | This folder contains experiments to be performed on Firebird-V |
 2 | [@electronut](https://github.com/electronut)/[**nRF51-pwm-test**](https://github.com/electronut/nRF51-pwm-test) | A simple example that demonstrates PWM, GPIOTE events, and NUS (Nordic UART Service) using the S110 softdevice on the nRF51-DK. |
 2 | [@dhiru1602](https://github.com/dhiru1602)/[**android_device_lge_p…**](https://github.com/dhiru1602/android_device_lge_p760) | Device Tree for LG Optimus L9 P760. |
+
 ### C++ #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 42 | [@ashkulz](https://github.com/ashkulz)/[**NppFTP**](https://github.com/ashkulz/NppFTP) | Plugin for Notepad++ allowing FTP, FTPS, FTPES and SFTP communications | [:arrow_upper_right:](http://ashkulz.github.io/NppFTP/)
@@ -467,14 +481,18 @@
 2 | [@nevinvalsaraj](https://github.com/nevinvalsaraj)/[**image-processing-ope…**](https://github.com/nevinvalsaraj/image-processing-opencv) | Image Processing using OpenCV 2.4.6 |
 2 | [@aapav01](https://github.com/aapav01)/[**android_hardware_sam…**](https://github.com/aapav01/android_hardware_samsung_slsi-cm_exynos_libcamera) |  |
 2 | [@utrade](https://github.com/utrade)/[**marketDataDispatcher**](https://github.com/utrade/marketDataDispatcher) |  |
+
 ### ActionScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 165 | [@hsharma](https://github.com/hsharma)/[**Hungry-Hero**](https://github.com/hsharma/Hungry-Hero) | Hungry Hero is an open source Flash game built on Starling Framework. | [:arrow_upper_right:](http://www.hungryherogame.com)
 15 | [@hegdemahesh](https://github.com/hegdemahesh)/[**hanuman**](https://github.com/hegdemahesh/hanuman) | A sample game built on starling and nape |
 8 | [@circuitvalley](https://github.com/circuitvalley)/[**IR-Remote-Control**](https://github.com/circuitvalley/IR-Remote-Control) |  |
 2 | [@riaxe](https://github.com/riaxe)/[**Screenshot-ANE-Mac**](https://github.com/riaxe/Screenshot-ANE-Mac) | Adobe AIR Native Extension for generating screenshot in Mac OSX. |
+
 ### Clojure #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 281 | [@zcaudate](https://github.com/zcaudate)/[**vinyasa**](https://github.com/zcaudate/vinyasa) | more flow to your workflow |
@@ -529,7 +547,9 @@
 2 | [@gowda](https://github.com/gowda)/[**path-to-philosophy**](https://github.com/gowda/path-to-philosophy) | find the path from any given wikipedia.org article to philosophy article on wikipedia.org |
 2 | [@gowda](https://github.com/gowda)/[**tomcat-example**](https://github.com/gowda/tomcat-example) | A simple web application built using noir to be deployed using tomcat application server |
 2 | [@kumarshantanu](https://github.com/kumarshantanu)/[**ring-jdbc-session**](https://github.com/kumarshantanu/ring-jdbc-session) | JDBC based HTTP session store for Ring (Clojure) |
+
 ### Go #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 91 | [@cskr](https://github.com/cskr)/[**pubsub**](https://github.com/cskr/pubsub) | A simple pubsub package for go. |
@@ -546,7 +566,9 @@
 2 | [@cbonello](https://github.com/cbonello)/[**gp-config**](https://github.com/cbonello/gp-config) | Configuration file parser for golang. |
 2 | [@psankar](https://github.com/psankar)/[**keeri**](https://github.com/psankar/keeri) |  |
 2 | [@cskr](https://github.com/cskr)/[**jsoncast**](https://github.com/cskr/jsoncast) | A Go library to read arbitrary JSON |
+
 ### Haskell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 28 | [@ajnsit](https://github.com/ajnsit)/[**wai-routes**](https://github.com/ajnsit/wai-routes) | Wai Routes provides typesafe URLs for Wai applications | [:arrow_upper_right:](https://ajnsit.github.io/wai-routes)
@@ -569,7 +591,9 @@
 2 | [@ajnsit](https://github.com/ajnsit)/[**vyom**](https://github.com/ajnsit/vyom) | Extensible algebra for creating typesafe DSLs in Haskell |
 2 | [@dj08](https://github.com/dj08)/[**projecteuler**](https://github.com/dj08/projecteuler) | My solutions to Project Euler problems |
 2 | [@ajnsit](https://github.com/ajnsit)/[**dot.xmonad**](https://github.com/ajnsit/dot.xmonad) | My XMonad configuration |
+
 ### Lua #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 66 | [@ROClientSide](https://github.com/ROClientSide)/[**Translation**](https://github.com/ROClientSide/Translation) | Ragnarok Online ClientSide Translation. |
@@ -582,13 +606,17 @@
 5 | [@dufferzafar](https://github.com/dufferzafar)/[**Project-Euler-Soluti…**](https://github.com/dufferzafar/Project-Euler-Solutions) | Soultions of Project Euler Problems in Lua |
 4 | [@SatheeshJM](https://github.com/SatheeshJM)/[**Amazon-SimpleDB-Modu…**](https://github.com/SatheeshJM/Amazon-SimpleDB-Module-for-Lua) | Amazon SimpleDB API for Corona SDK |
 4 | [@SatheeshJM](https://github.com/SatheeshJM)/[**Ascii85-Encoding-in-…**](https://github.com/SatheeshJM/Ascii85-Encoding-in-Pure-Lua) |  |
+
 ### Matlab #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@ateshkoul](https://github.com/ateshkoul)/[**NeuroImaging**](https://github.com/ateshkoul/NeuroImaging) | Neuroimaging |
 2 | [@SivanandAchanta](https://github.com/SivanandAchanta)/[**DNN_SPS**](https://github.com/SivanandAchanta/DNN_SPS) | This contains code to replicate DNN-SPS experiments reported in "Significance of Maximum Spectral Amplitude in Sub-bands for Spectral Envelope Estimation and Its Application to Statistical Parametric Speech Synthesis" paper Interspeech15 submission |
 2 | [@SivanandAchanta](https://github.com/SivanandAchanta)/[**SSW9**](https://github.com/SivanandAchanta/SSW9) | SPSS using RNN-DNN for speech synthesis workshop |
+
 ### Objective-C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 6345 | [@hackiftekhar](https://github.com/hackiftekhar)/[**IQKeyboardManager**](https://github.com/hackiftekhar/IQKeyboardManager) | Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more. |
@@ -653,7 +681,9 @@
 2 | [@hackiftekhar](https://github.com/hackiftekhar)/[**LocuAPI**](https://github.com/hackiftekhar/LocuAPI) | UnOfficial Locu API demo |
 2 | [@kumaranvram](https://github.com/kumaranvram)/[**NSTableView-Cell-Sel…**](https://github.com/kumaranvram/NSTableView-Cell-Selection-Demo) | This project is a Cocoa application that demostrates how to identify the cell that has been currently clicked in a NSTableView | [:arrow_upper_right:](http://www.gurusonthego.com)
 2 | [@hackiftekhar](https://github.com/hackiftekhar)/[**IQNetworkTaskManager**](https://github.com/hackiftekhar/IQNetworkTaskManager) | Manage Multiple Network requests with an easy way |
+
 ### Perl #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 6142 | [@sitaramc](https://github.com/sitaramc)/[**gitolite**](https://github.com/sitaramc/gitolite) | Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features. | [:arrow_upper_right:](http://wiki.github.com/sitaramc/gitolite/)
@@ -669,7 +699,9 @@
 2 | [@ppant](https://github.com/ppant)/[**perl-csp**](https://github.com/ppant/perl-csp) | Perl implementation of Constraint Satisfaction Problem (CSP) Algorithms | [:arrow_upper_right:](http://pradeeppant.com)
 2 | [@dipanjanS](https://github.com/dipanjanS)/[**Temperature-Aware-Li…**](https://github.com/dipanjanS/Temperature-Aware-Linux) | A temperature-aware application for creating a temperature-aware variant of the linux OS |
 2 | [@sitaramc](https://github.com/sitaramc)/[**hashlite**](https://github.com/sitaramc/hashlite) | Store and retrieve small amounts of data from perl or shell.  Think "git config" in some ways, but different.  Uses Sqlite3. |
+
 ### PHP #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 65 | [@kayalshri](https://github.com/kayalshri)/[**socialmedia-oauth-lo…**](https://github.com/kayalshri/socialmedia-oauth-login) | SocialMedia sites login by using oauth connect |
@@ -723,7 +755,9 @@
 2 | [@kayalshri](https://github.com/kayalshri)/[**Facebook-idcard**](https://github.com/kayalshri/Facebook-idcard) | Facebook Idcard build, post |
 2 | [@sudar](https://github.com/sudar)/[**twitter-avatar-reloa…**](https://github.com/sudar/twitter-avatar-reloaded) | Twitter avatar reloaded Plugin adds a new field to the comment form to get the user’s Twitter username and stores it together with comments and using it replaces gravatar with twitter avatar when the comment is displayed | [:arrow_upper_right:](http://sudarmuthu.com/wordpress/twitter-avatar-reloaded)
 2 | [@ashfame](https://github.com/ashfame)/[**WPRealtime**](https://github.com/ashfame/WPRealtime) | Nothing to see here, move on. |
+
 ### Python #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2078 | [@kovidgoyal](https://github.com/kovidgoyal)/[**calibre**](https://github.com/kovidgoyal/calibre) | The official source code repository for the calibre ebook manager | [:arrow_upper_right:](https://calibre-ebook.com)
@@ -874,13 +908,17 @@
 2 | [@axitkhurana](https://github.com/axitkhurana)/[**Download-Softwares**](https://github.com/axitkhurana/Download-Softwares) | [deprecated] Download Softwares application is currently under development for IIT Roorkee's intranet, for sharing and downloading free software under Information Management Group. | [:arrow_upper_right:](IITR Intranet)
 2 | [@amitu](https://github.com/amitu)/[**django-encrypted-id**](https://github.com/amitu/django-encrypted-id) | Encrypted IDs for Django Models |
 2 | [@abhikandoi2000](https://github.com/abhikandoi2000)/[**lyricsparser**](https://github.com/abhikandoi2000/lyricsparser) | Simple parser to parse lyrics from Lyrics.com |
+
 ### R #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 13 | [@adityashrm21](https://github.com/adityashrm21)/[**Bike-Sharing-Demand-…**](https://github.com/adityashrm21/Bike-Sharing-Demand---Kaggle) | Solution to the Kaggle knowledge problem - Bike Sharing Demand |
 5 | [@bishwarup307](https://github.com/bishwarup307)/[**AV_Last_Man_Standing**](https://github.com/bishwarup307/AV_Last_Man_Standing) |  |
 3 | [@nishantsbi](https://github.com/nishantsbi)/[**R-Programming-Assign…**](https://github.com/nishantsbi/R-Programming-Assignment-3) | R-Programming Project 3 |
+
 ### Ruby #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 450 | [@arunagw](https://github.com/arunagw)/[**omniauth-twitter**](https://github.com/arunagw/omniauth-twitter) | OmniAuth strategy for Twitter | [:arrow_upper_right:](http://arunagw.github.io/omniauth-twitter/)
@@ -958,7 +996,9 @@
 2 | [@railsfactory](https://github.com/railsfactory)/[**crux_share**](https://github.com/railsfactory/crux_share) |  |
 2 | [@railsfactory](https://github.com/railsfactory)/[**crux_theme**](https://github.com/railsfactory/crux_theme) |  |
 2 | [@arunagw](https://github.com/arunagw)/[**omniauth-picplz**](https://github.com/arunagw/omniauth-picplz) | PicPlz OAuth strategy for OmniAuth |
+
 ### Scala #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 225 | [@debasishg](https://github.com/debasishg)/[**sjson**](https://github.com/debasishg/sjson) | Scala Json with capabilities for Scala Object Serialization | [:arrow_upper_right:](http://debasishg.blogspot.com)
@@ -986,7 +1026,9 @@
 2 | [@debasishg](https://github.com/debasishg)/[**qcon-ny-12**](https://github.com/debasishg/qcon-ny-12) | Code base for presentation in QCon NY 2012 |
 2 | [@scalolli](https://github.com/scalolli)/[**chotoo**](https://github.com/scalolli/chotoo) | Utility written in scala to read data from of different formats csv, excel, txt files etc. |
 2 | [@debasishg](https://github.com/debasishg)/[**recon**](https://github.com/debasishg/recon) | Attempt to make a generalized reconciliation service |
+
 ### Shell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 5 | [@dhamaniasad](https://github.com/dhamaniasad)/[**eyeos**](https://github.com/dhamaniasad/eyeos) | eyeos open source archive |
@@ -996,7 +1038,9 @@
 2 | [@Abhinav1997](https://github.com/Abhinav1997)/[**speed-up-android**](https://github.com/Abhinav1997/speed-up-android) | Script to speed up your build process by 357.233% |
 2 | [@kiranp11](https://github.com/kiranp11)/[**scripts**](https://github.com/kiranp11/scripts) | scripts |
 2 | [@SpEcHiDe](https://github.com/SpEcHiDe)/[**scripts**](https://github.com/SpEcHiDe/scripts) | Useful scripts to have fun. |
+
 ### Swift #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 12 | [@keshavvishwkarma](https://github.com/keshavvishwkarma)/[**KVRootBaseSideMenu-Swift**](https://github.com/keshavvishwkarma/KVRootBaseSideMenu-Swift) | KVRootBaseSideMenu-Swift It's a root base side menu with autolayout for iOS applications & It is also written in pure swift. |
@@ -1011,11 +1055,15 @@
 2 | [@abdullah-chhatra](https://github.com/abdullah-chhatra)/[**iLayout**](https://github.com/abdullah-chhatra/iLayout) | Framework with high level and intuitive methods to write Auto Layout constraints |
 2 | [@iappvk](https://github.com/iappvk)/[**TableView-Swift**](https://github.com/iappvk/TableView-Swift) |  |
 2 | [@abdullah-chhatra](https://github.com/abdullah-chhatra)/[**iDispatch**](https://github.com/abdullah-chhatra/iDispatch) | Easy to use wrapper over GCD for iOS |
+
 ### TeX #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@santhosbaala](https://github.com/santhosbaala)/[**vitmsprojectreport**](https://github.com/santhosbaala/vitmsprojectreport) | A LaTeX template for MS Software Engineering final year project report |
+
 ### VimL #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 404 | [@dhruvasagar](https://github.com/dhruvasagar)/[**vim-table-mode**](https://github.com/dhruvasagar/vim-table-mode) | VIM Table Mode for instant table creation. |
@@ -1034,6 +1082,7 @@
 4 | [@Prajjwal](https://github.com/Prajjwal)/[**dotfiles**](https://github.com/Prajjwal/dotfiles) | Configuration for my system(s). |
 3 | [@dhruvasagar](https://github.com/dhruvasagar)/[**vim-audiobox**](https://github.com/dhruvasagar/vim-audiobox) | Control Rhythmbox from VIM |
 2 | [@anadgouda](https://github.com/anadgouda)/[**typing-vim-colour-th…**](https://github.com/anadgouda/typing-vim-colour-theme) | A dark colour theme for (g)vim. |
+
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
