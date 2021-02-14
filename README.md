@@ -93,6 +93,7 @@
 250 | [@hemanth](https://github.com/hemanth)/[**paws-on-es6**](https://github.com/hemanth/paws-on-es6) | Minimalist examples of ES6 functionalities. | [:arrow_upper_right:](http://git.io/es6-paws)
 231 | [@arvindr21](https://github.com/arvindr21)/[**diskDB**](https://github.com/arvindr21/diskDB) | A Lightweight Disk based JSON Database with a MongoDB like API for Node | [:arrow_upper_right:]( http://arvindr21.github.io/diskDB)
 222 | [@s-yadav](https://github.com/s-yadav)/[**patternLock**](https://github.com/s-yadav/patternLock) | A light weight plugin to simulate android like pattern lock interface for your hybrid app or website. | [:arrow_upper_right:](http://ignitersworld.com/lab/patternLock.html)
+195 | [@pranshuchittora](https://github.com/pranshuchittora)/[**autarky**](https://github.com/pranshuchittora/autarky) | Liberating disk space from 📁 node_modules.  | [:arrow_upper_right:](https://autarky.js.org/)
 125 | [@pksunkara](https://github.com/pksunkara)/[**npm-police**](https://github.com/pksunkara/npm-police) | policing the dependency packages versions |
 112 | [@pksunkara](https://github.com/pksunkara)/[**inflect**](https://github.com/pksunkara/inflect) | custom inflections for nodejs |
 110 | [@pksunkara](https://github.com/pksunkara)/[**semicolon**](https://github.com/pksunkara/semicolon) | A language of semicolons | [:arrow_upper_right:](http://pksunkara.github.io/semicolon)
