@@ -89,6 +89,7 @@
 503 | [@rakeshpai](https://github.com/rakeshpai)/[**pi-gpio**](https://github.com/rakeshpai/pi-gpio) | A simple node.js-based GPIO helper for the Raspberry Pi |
 452 | [@chinchang](https://github.com/chinchang)/[**screenlog.js**](https://github.com/chinchang/screenlog.js) | Bring console.log on the screen |
 387 | [@shyamseshadri](https://github.com/shyamseshadri)/[**angularjs-up-and-run…**](https://github.com/shyamseshadri/angularjs-up-and-running) | All the source code for the AngularJS Up & Running Book for O'Reilly |
+295 | [@abhiprojectz](https://github.com/abhiprojectz)/[**motionia**](https://github.com/abhiprojectz/motionia) | Motionia is a lightweight simplified animation library! | 
 258 | [@chinchang](https://github.com/chinchang)/[**code-blast-codemirro…**](https://github.com/chinchang/code-blast-codemirror) | ✨Particles blasts while typing in Codemirror | [:arrow_upper_right:](http://kushagragour.in/code-blast-codemirror/demo/)
 250 | [@hemanth](https://github.com/hemanth)/[**paws-on-es6**](https://github.com/hemanth/paws-on-es6) | Minimalist examples of ES6 functionalities. | [:arrow_upper_right:](http://git.io/es6-paws)
 231 | [@arvindr21](https://github.com/arvindr21)/[**diskDB**](https://github.com/arvindr21/diskDB) | A Lightweight Disk based JSON Database with a MongoDB like API for Node | [:arrow_upper_right:]( http://arvindr21.github.io/diskDB)
